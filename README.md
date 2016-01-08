@@ -1,2 +1,1 @@
-This is Git Test fds
-afdddfdsf
+This is Git Test fdsaf
